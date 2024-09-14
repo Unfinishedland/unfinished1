@@ -1,0 +1,14 @@
+body {
+    position: absolute;
+    width: 200vw;
+    height: 200vh;
+    background-color: #c16ddf;
+    overflow: hidden;
+}
+.random-div {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
